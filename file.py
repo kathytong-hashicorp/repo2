@@ -22,3 +22,6 @@ voicegain_key = '194zouhH+VoQcK6y23yRDTVQB88kq7CmDN4JdW4xW+c='
 
 
 password = 'SD,fniuyriu2y3r@#3'
+
+
+password = 'KShfi3yriuh3r3331'
